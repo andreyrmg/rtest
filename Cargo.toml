@@ -1,0 +1,5 @@
+[package]
+
+name = "rtest"
+version = "0.0.1"
+authors = ["Andrey Manzharov <andreyrmg@gmail.com>"]
